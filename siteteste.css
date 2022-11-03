@@ -1,0 +1,28 @@
+.container {
+	background-color: lightblue;
+	display: flex;
+	flex-direction: column;
+	justify-content: space between;
+	align-content: center;
+}
+
+.item {
+	background-color: skyblue;
+	margin: 5px 10px 5px 10px;
+	text-align: center;
+}
+
+.container2 {
+	display: flex;
+	justify-content: center;
+	align-content: center;
+}
+
+.item2 {
+	display: flex;
+	padding: 5px;
+}
+
+h1 {
+	text-align: center;
+}
